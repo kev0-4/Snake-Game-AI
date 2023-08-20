@@ -3,7 +3,6 @@
 Snake AI is a Python-based implementation of the classic Snake game with an AI agent that learns to play the game using Q-learning. This project is designed to showcase how reinforcement learning techniques can be applied to train an AI agent to perform tasks.
 ![ezgif com-gif-maker (1)](https://github.com/kev0-4/Snake-Game-AI/assets/110706642/23494b1b-f0a8-418e-9175-466aca95bd11)
 ![image](https://github.com/kev0-4/Snake-Game-AI/assets/110706642/8bf6bb39-4866-428c-9b17-aa91b755e289)
-![image](https://github.com/kev0-4/Snake-Game-AI/assets/110706642/118c775b-548f-4113-91f5-1912da5397e0)
 
 
 ## Table of Contents
